@@ -1,0 +1,18 @@
+<resources>
+
+    <!--private CharSequence completeStr = "COMPLETE";-->
+    <!--private CharSequence refreshingStr = "REFRESHING";-->
+    <!--private CharSequence pullStr = "PULL TO REFRESH";-->
+    <!--private CharSequence releaseStr = "RELEASE TO REFRESH";-->
+    <declare-styleable name="ClassicRefreshView">
+        <attr name="classic_completeStr" format="string" />
+        <attr name="classic_refreshingStr" format="string" />
+        <attr name="classic_pullStr" format="string" />
+        <attr name="classic_releaseStr" format="string" />
+        <attr name="classic_progressbarcolor" format="color" />
+
+
+    </declare-styleable>
+
+
+</resources>
